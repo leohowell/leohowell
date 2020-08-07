@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Leo Howell
+<br>
+
+### Leo Howell
 
 ---
 
@@ -38,13 +40,13 @@ Beijing, China | (+86) 188-1077-8701 | leohowell@stu.pku.edu.cn
 ---
 **Momo Technology Company Limited** *(Sep 2017 - Present)*
 
-*Security develop engineer - beijing*
+*Security develop engineer - Beijing*
 
 Keywords: Risk management platform, Security operation center, Device fingerprinting
 
 **Sohu.com Limited** *(Aug 2015 - Sep 2017)*
 
-*Software engineer - beijing*
+*Software engineer - Beijing*
 
 Keywords: News website, m.sohu.com, Algorithm, Payment System
 
