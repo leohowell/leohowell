@@ -40,15 +40,15 @@ Beijing, China | (+86) 188-1077-8701 | leohowell@stu.pku.edu.cn
 ---
 **Momo Technology Company Limited** *(Sep 2017 - Present)*
 
-*Security develop engineer - Beijing*
+*Security Develop Engineer - Beijing*
 
 Keywords: Risk management platform, Security operation center, Device fingerprinting
 
 **Sohu.com Limited** *(Aug 2015 - Sep 2017)*
 
-*Software engineer - Beijing*
+*Software Engineer - Beijing*
 
-Keywords: News website, m.sohu.com, Algorithm, Payment System
+Keywords: News website, m.sohu.com, Algorithm, Payment system
 
 **Red Hat, Inc.** *(Apr 2015 - Aug 2015)*
 
