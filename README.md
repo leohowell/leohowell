@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-Beijing, China | (+86) 188-1077-8701 | leohowell@stu.pku.edu.cn
+Beijing, China | (+86) 176-0034-8701 | leohowell@stu.pku.edu.cn
 
 <br>
 
