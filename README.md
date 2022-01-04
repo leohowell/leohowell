@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-Beijing, China | (+86) 176-0034-8701 | leohowell@stu.pku.edu.cn
+Beijing, China | leohowell@stu.pku.edu.cn
 
 <br>
 
@@ -28,7 +28,7 @@ Beijing, China | (+86) 176-0034-8701 | leohowell@stu.pku.edu.cn
 ---
 **Peking University**   *(Sep 2020 - Present)*
 
-*Master of Engineering Management*
+*Master of Engineering Management Candidate*
 
 **Shandong Normal University**  *(Sep 2011 - Jun 2015)*
 
@@ -42,7 +42,7 @@ Beijing, China | (+86) 176-0034-8701 | leohowell@stu.pku.edu.cn
 
 *Security Develop Engineer - Beijing*
 
-Keywords: Risk management platform, Security operation center, Device fingerprinting
+Keywords: Risk management(anti-cheat/anti-fraud), Security operation center, Device fingerprinting
 
 **Sohu.com Limited** *(Aug 2015 - Sep 2017)*
 
