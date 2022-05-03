@@ -1,0 +1,172 @@
+<svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                font-family: Georgia,
+                system-ui,
+                -apple-system,
+                'Segoe UI',
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif,
+                'Apple Color Emoji',
+                'Segoe UI Emoji';
+                background: white;
+                height: 800px;
+                background-size: 600% 400%;
+                border-radius: 10px;
+                }
+
+                .block {
+                margin-left: auto;
+                margin-right: auto;
+                }
+
+                .container-left-right {
+                width: 100%;
+                }
+
+                .left {
+                float: left;
+                width: 60%;
+                }
+
+                .left-full {
+                float: left;
+                width: 100%;
+                }
+
+                .right {
+                float: right;
+                }
+
+                .line {
+                border-bottom: solid 1px black;
+                margin-top: 3px;
+                margin-bottom: 0;
+                }
+
+                .title {
+                margin-top: 30px;
+                margin-bottom: 0;
+                }
+
+                .bold {
+                font-weight: bold;
+                }
+
+                .italic {
+                font-style: italic;
+                }
+
+                p {
+                margin: 6px 0;
+                }
+
+                .keywords {
+                margin-bottom: 10px;
+                }
+            </style>
+            <div class="container">
+                <h2 style="text-align: center">Leo Howell</h2>
+                <p style="text-align: center">hongwang2015#outlook.com</p>
+
+                <div class="block">
+                    <h4 class="title">EDUCATION EXPERIENCE</h4>
+                    <p class="line"></p>
+                    <div class="container-left-right">
+                        <div class="left">
+                            <p class="bold">Peking University</p>
+                            <p>Master of Engineering Management Candidate</p>
+                        </div>
+                        <div class="right">
+                            <p>Sep 2020 - Present</p>
+                        </div>
+                    </div>
+
+                    <div class="container-left-right">
+                        <div class="left">
+                            <p class="bold">Shandong Normal University</p>
+                            <p>Bachelor of Computer Science</p>
+                        </div>
+                        <div class="right">
+                            <p>Sep 2011 - Jun 2015</p>
+                        </div>
+                    </div>
+
+                    <div class="container-left-right">
+                        <div class="left-full">
+                            <h4 class="title">PROFESSIONAL EXPERIENCE</h4>
+                            <p class="line"></p>
+                        </div>
+                        <div class="left">
+                            <p class="bold">Momo Technology Company Limited</p>
+                        </div>
+
+                        <div class="right">
+                            <p>Sep 2017 - Apr 2022</p>
+                        </div>
+                        <div class="left italic">
+                            <p>Security Develop Engineer</p>
+                        </div>
+                        <div class="right italic">
+                            <p>Beijing</p>
+                        </div>
+                        <div class="left-full keywords">
+                            <p>Keywords: Risk management(anti-cheat/anti-fraud), Security operation center, Device
+                                fingerprinting
+                            </p>
+                        </div>
+
+                        <div class="left">
+                            <p class="bold">Sohu.com Limited</p>
+                        </div>
+
+                        <div class="right">
+                            <p>Aug 2015 - Sep 2017</p>
+                        </div>
+                        <div class="left italic">
+                            <p>Software Engineer</p>
+                        </div>
+                        <div class="right italic">
+                            <p>Beijing</p>
+                        </div>
+                        <div class="left-full keywords">
+                            <p>Keywords: News website, m.sohu.com, Algorithm, Payment system</p>
+                        </div>
+
+
+                        <div class="left">
+                            <p class="bold">Red Hat, Inc.</p>
+                        </div>
+
+                        <div class="right">
+                            <p>Apr 2015 - Aug 2015</p>
+                        </div>
+                        <div class="left italic">
+                            <p>Quality Engineer Intern</p>
+                        </div>
+                        <div class="right italic">
+                            <p>Beijing</p>
+                        </div>
+                        <div class="left-full">
+                            <p>Keywords: Virtualization device driver, Hyper-V and ESXi, RHEL kernel test</p>
+                        </div>
+
+                        <div class="left-full">
+                            <h4 class="title">MISCELLANEOUS</h4>
+                            <p class="line"></p>
+                        </div>
+                        <div class="left-full">
+                            <p>Languages: English(conversational), Mandarin Chinese(native)</p>
+                            <p>Practised: Python, Django, Vue, Kafka, MySQL, Redis</p>
+                            <p>Instrests: Rust, Machine Learning</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>

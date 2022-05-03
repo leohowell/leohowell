@@ -1,4 +1,8 @@
-### Hi there 👋 
+<div align="center">
+    <img src="profile.svg" width="800" height="800">
+</div>
+
+
 <!--
 **leohowell/leohowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,8 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+
+### Hi there 👋 
 <br>
 
 ### Leo Howell
@@ -66,4 +71,4 @@ Keywords: Virtualization device driver, Hyper-V and ESXi, RHEL kernel test
 **Practised**: Python, Django, Vue, Kafka, MySQL, Redis
 
 **Instrests**: Rust, Machine Learning
-
+-->
