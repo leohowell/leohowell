@@ -13,6 +13,8 @@
                 sans-serif,
                 'Apple Color Emoji',
                 'Segoe UI Emoji';
+                display: flex;
+                background: white;
                 }
 
                 .block {
