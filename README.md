@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-[**RESUME**](profile.svg) | 
+[**RESUME**](profile.md) | 
 [**BLOG**](https://blog.qminghe.com)
 
 <!-- <div align="center">
